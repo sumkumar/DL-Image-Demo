@@ -1,0 +1,14 @@
+CV generative - https://www.altexsoft.com/blog/ai-image-generation/
+
+HF image tasks - https://huggingface.co/models?pipeline_tag=image-to-text&sort=trending
+
+Manifold Visualization - https://scikit-learn.org/stable/modules/manifold.html
+
+GAN - https://www.tensorflow.org/tutorials/generative/dcgan
+
+Stable diffusion - https://keras.io/examples/generative/random_walks_with_stable_diffusion/
+
+Diffusion - https://keras.io/examples/generative/ddim/
+
+GAN Live - https://poloclub.github.io/ganlab/
+
